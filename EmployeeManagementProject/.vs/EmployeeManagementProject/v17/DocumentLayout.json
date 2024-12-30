@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backup\\Backup\\EmployeeManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\admininfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:admininfowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\admininfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:admininfowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\employeewindow\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:employeewindow\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\employeewindow\\employeewindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:employeewindow\\employeewindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\employeewindow\\employeewindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:employeewindow\\employeewindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\employeewindow\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:employeewindow\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\adminwindow\\adminwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:adminwindow\\adminwindows.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\adminwindow\\adminwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:adminwindow\\adminwindows.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30A234-E2F1-41C1-A824-2B5C14E4F56C}|..\\EmployeeManagementProjectTest\\EmployeeManagementProjectTest.csproj|d:\\backup\\backup\\employeemanagementprojecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F30A234-E2F1-41C1-A824-2B5C14E4F56C}|..\\EmployeeManagementProjectTest\\EmployeeManagementProjectTest.csproj|d:\\backup\\backup\\employeemanagementprojecttest\\secondtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:signupwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:signupwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|d:\\backup\\backup\\employeemanagementproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2225D3C0-9DFA-46E2-90A7-F8E0B31B7F32}|EmployeeManagementProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeWindows.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\EmployeeWindows.xaml",
+              "RelativeDocumentMoniker": "EmployeeWindow\\EmployeeWindows.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\EmployeeWindows.xaml",
+              "RelativeToolTip": "EmployeeWindow\\EmployeeWindows.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T14:35:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeWindow\\Employee.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\Employee.cs",
+              "RelativeToolTip": "EmployeeWindow\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:06:01.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeWindows.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\EmployeeWindows.xaml.cs",
+              "RelativeDocumentMoniker": "EmployeeWindow\\EmployeeWindows.xaml.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\EmployeeWindows.xaml.cs",
+              "RelativeToolTip": "EmployeeWindow\\EmployeeWindows.xaml.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAEsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:37:50.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\Response.cs",
+              "RelativeDocumentMoniker": "EmployeeWindow\\Response.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\EmployeeWindow\\Response.cs",
+              "RelativeToolTip": "EmployeeWindow\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:06:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminInfoWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminInfoWindow.xaml",
+              "RelativeDocumentMoniker": "AdminInfoWindow.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminInfoWindow.xaml",
+              "RelativeToolTip": "AdminInfoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T02:00:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminInfoWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminInfoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AdminInfoWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminInfoWindow.xaml.cs",
+              "RelativeToolTip": "AdminInfoWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:01:24.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindows.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminWindow\\AdminWindows.xaml.cs",
+              "RelativeDocumentMoniker": "AdminWindow\\AdminWindows.xaml.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminWindow\\AdminWindows.xaml.cs",
+              "RelativeToolTip": "AdminWindow\\AdminWindows.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:35:28.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminWindows.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminWindow\\AdminWindows.xaml",
+              "RelativeDocumentMoniker": "AdminWindow\\AdminWindows.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\AdminWindow\\AdminWindows.xaml",
+              "RelativeToolTip": "AdminWindow\\AdminWindows.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-25T14:35:22.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:43:26.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProjectTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeManagementProjectTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProjectTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\EmployeeManagementProjectTest\\UnitTest1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T01:52:47.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecondTest.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProjectTest\\SecondTest.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeManagementProjectTest\\SecondTest.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProjectTest\\SecondTest.cs",
+              "RelativeToolTip": "..\\EmployeeManagementProjectTest\\SecondTest.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:07:14.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignUpWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\SignUpWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SignUpWindow.xaml.cs",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\SignUpWindow.xaml.cs",
+              "RelativeToolTip": "SignUpWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T02:03:27.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SignUpWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\SignUpWindow.xaml",
+              "RelativeDocumentMoniker": "SignUpWindow.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\SignUpWindow.xaml",
+              "RelativeToolTip": "SignUpWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T02:03:04.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T01:55:47.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Backup\\Backup\\EmployeeManagementProject\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-01T01:55:43.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

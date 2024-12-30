@@ -1,0 +1,156 @@
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfo.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.exe
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.deps.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.runtimeconfig.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagementProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagementProjectAPI.styles.css
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\Employee.1E00580E.Up2Date
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\refint\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.genruntimeconfig.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectAPI\obj\Debug\net8.0\ref\EmployeeManagementProjectAPI.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.exe
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.deps.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.runtimeconfig.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfo.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagementProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagementProjectAPI.props
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProjectAPI.props
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProjectAPI.props
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagementProjectAPI.styles.css
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\Employee.1E00580E.Up2Date
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\refint\EmployeeManagementProjectAPI.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.genruntimeconfig.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProjectAPI\obj\Debug\net8.0\ref\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.exe
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.deps.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.runtimeconfig.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.AssemblyReference.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfo.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagementProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProjectAPI.props
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagementProjectAPI.styles.css
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\Employee.1E00580E.Up2Date
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\refint\EmployeeManagementProjectAPI.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.genruntimeconfig.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProjectAPI\obj\Debug\net8.0\ref\EmployeeManagementProjectAPI.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\appsettings.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.exe
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.deps.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.runtimeconfig.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.AssemblyReference.cache
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfoInputs.cache
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.AssemblyInfo.cs
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.csproj.CoreCompileInputs.cache
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeManagementProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeManagementProjectAPI.props
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProjectAPI.props
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProjectAPI.props
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EmployeeManagementProjectAPI.styles.css
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\Employee.1E00580E.Up2Date
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\refint\EmployeeManagementProjectAPI.dll
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.pdb
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\EmployeeManagementProjectAPI.genruntimeconfig.cache
+D:\Backup\Backup\EmployeeManagementProjectAPI\obj\Debug\net8.0\ref\EmployeeManagementProjectAPI.dll

@@ -1,0 +1,232 @@
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+C:\Users\Ritesh\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Project\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+\\Mac\Home\Documents\Vanier Docs\Application Development I\Main Project\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+C:\Users\Ritesh Sharma\Desktop\WPF\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProject\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.AssemblyReference.cache
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\App.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.cache
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject_MarkupCompile.lref
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminWindow\AdminWindows.baml
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeWindow\EmployeeWindows.baml
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.g.resources
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfoInputs.cache
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.AssemblyInfo.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.csproj.CoreCompileInputs.cache
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\Employee.9AECA3DE.Up2Date
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\refint\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.pdb
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\EmployeeManagementProject.genruntimeconfig.cache
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\ref\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminInfoWindow.baml
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\AdminInfoWindow.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\SignUpWindow.g.cs
+D:\Backup\Backup\EmployeeManagementProject\obj\Debug\net8.0-windows\SignUpWindow.baml

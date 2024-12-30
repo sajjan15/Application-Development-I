@@ -1,0 +1,224 @@
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_EmployeeManagementProjectTest
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.csproj.AssemblyReference.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.AssemblyInfoInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.AssemblyInfo.cs
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testhost.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testhost.exe
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.api.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.core.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.deps.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.runtimeconfig.json
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\Employee.29AE692D.Up2Date
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\refint\EmployeeManagementProjectTest.dll
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.pdb
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.genruntimeconfig.cache
+C:\Users\Ritesh Sharma\source\repos\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\ref\EmployeeManagementProjectTest.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\CoverletSourceRootsMapping_EmployeeManagementProjectTest
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testhost.exe
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testhost.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.api.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.engine.core.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\testcentric.engine.metadata.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.deps.json
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.runtimeconfig.json
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.exe
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.deps.json
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.runtimeconfig.json
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProjectTest.pdb
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.TestPlatform.Utilities.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.framework.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\bin\Debug\net8.0-windows\EmployeeManagementProject.pdb
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.csproj.AssemblyReference.cache
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.AssemblyInfoInputs.cache
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.AssemblyInfo.cs
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.csproj.CoreCompileInputs.cache
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\Employee.29AE692D.Up2Date
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\refint\EmployeeManagementProjectTest.dll
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.pdb
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\EmployeeManagementProjectTest.genruntimeconfig.cache
+D:\Backup\Backup\EmployeeManagementProjectTest\obj\Debug\net8.0-windows\ref\EmployeeManagementProjectTest.dll

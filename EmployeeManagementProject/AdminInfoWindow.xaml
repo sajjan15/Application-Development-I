@@ -1,0 +1,16 @@
+﻿<Window x:Class="EmployeeManagementProject.AdminInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Admin Info" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="AdminDataGrid" AutoGenerateColumns="True" Margin="10,46,10,10" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10">
+            <Button x:Name="UpdateButton" Content="Update" Width="100" Margin="5" Click="UpdateButton_Click" Background="#FF6C51FF" FontSize="14" FontWeight="Bold" />
+            <Button x:Name="DeleteButton" Content="Delete" Width="100" Margin="5" Click="DeleteButton_Click" Background="#FF15D3E2" FontSize="14" FontWeight="Bold" />
+        </StackPanel>
+        <Label x:Name="InfoLabel" HorizontalAlignment="Center" Margin="0,4,0,0" VerticalAlignment="Top" Width="290" FontSize="24" Height="42" Content="List of Registered Admins" FontFamily="Bahnschrift" FontWeight="Bold" Background="#FF5AD64F" Foreground="#FF002BFF"/>
+    </Grid>
+</Window>

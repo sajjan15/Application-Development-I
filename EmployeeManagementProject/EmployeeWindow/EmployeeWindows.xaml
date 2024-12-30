@@ -1,0 +1,47 @@
+﻿<Window x:Class="EmployeeManagementProject.EmployeeWindow.EmployeeWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EmployeeManagementProject.EmployeeWindow"
+        mc:Ignorable="d"
+        Title="EmployeeWindows" Height="473" Width="939">
+    <Grid Margin="0,0,0,5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="81*"/>
+            <ColumnDefinition Width="47*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF585656" Offset="0"/>
+                <GradientStop Color="#FFFDFDFD" Offset="0.913"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <DataGrid x:Name="EmployeeDataGrid" AutoGenerateColumns="False" HorizontalAlignment="Left" Margin="28,10,0,0" VerticalAlignment="Top" Width="880" Height="233" FontWeight="Bold" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding EmployeeID}" Width="*"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding EmployeeName}" Width="*"/>
+                <DataGridTextColumn Header="Position" Binding="{Binding EmployeePosition}" Width="*"/>
+                <DataGridTextColumn Header="Salary" Binding="{Binding EmployeeSalary}" Width="*"/>
+                <DataGridTextColumn Header="Leave From" Binding="{Binding LeaveFrom, StringFormat=\{0:yyyy-MM-dd\}}" Width="*"/>
+                <DataGridTextColumn Header="Leave To" Binding="{Binding LeaveTo, StringFormat=\{0:yyyy-MM-dd\}}" Width="*"/>
+                <DataGridTextColumn Header="Approval Status" Binding="{Binding ApprovalStatus}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Margin="28,260,396,34">
+            <TextBlock TextWrapping="Wrap" Text="Employee ID :" FontFamily="Calibri" FontSize="16" HorizontalAlignment="Right"/>
+            <TextBlock TextWrapping="Wrap" Text="Leaves From :" FontFamily="Calibri" FontSize="16" HorizontalAlignment="Right" Margin="0,15,0,0"/>
+            <TextBlock TextWrapping="Wrap" Text="Leaves To :" FontFamily="Calibri" FontSize="16" HorizontalAlignment="Right" Margin="0,15,0,0"/>
+        </StackPanel>
+        <StackPanel Margin="217,260,199,34">
+            <TextBox x:Name="EmployeeID_textBox" TextWrapping="Wrap" Width="175" FontFamily="Calibri" FontSize="16"/>
+            <DatePicker x:Name="from_datepicker" Width="175" Margin="0,12,0,0"/>
+            <DatePicker x:Name="to_datepicker" Width="175" Margin="0,12,0,0"/>
+        </StackPanel>
+        <StackPanel Margin="417,260,27,34">
+            <Button x:Name="LoadData_Button" Content="LoadData" Width="140" FontFamily="Calibri" FontSize="16" Click="LoadData_Button_Click"/>
+            <Button x:Name="submit_button" Content="Submit Leaves" Margin="0,12,0,0" Width="137" FontFamily="Calibri" FontSize="16" Click="submit_button_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
