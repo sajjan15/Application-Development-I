@@ -29,10 +29,10 @@ The repository is structured to showcase:
 ## Technologies Used
 
 - **Programming Languages**: C#.
-- **Frameworks**: .NET Framework, WPF.
+- **Frameworks**: .NET Framework, React.
 - **Databases**: MySQL.
 - **Version Control**: Git and GitHub.
-- **Tools**: Visual Studio, Postman.
+- **Tools**: Visual Studio.
 - **Other**: REST APIs, JSON.
 
 ## Database Contents
