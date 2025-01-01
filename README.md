@@ -30,7 +30,7 @@ The repository is structured to showcase:
 
 - **Programming Languages**: C#.
 - **Frameworks**: .NET Framework, React.
-- **Databases**: MsSQL.
+- **Databases**: MSSQL.
 - **Version Control**: Git and GitHub.
 - **Tools**: Visual Studio.
 - **Other**: REST APIs, JSON.
