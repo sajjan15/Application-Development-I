@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository encapsulates a comprehensive collection of projects and assignments developed as part of the "Application Development I" course. These projects combine various aspects of application development, including web and desktop app creation, database integration, and interactive user interface design. The primary objective is to demonstrate practical application development skills while adhering to industry standards.
+This repository encapsulates a comprehensive project developed as part of the "Application Development I" course. These projects combine various aspects of application development, including web and desktop app creation, database integration, and interactive user interface design. The primary objective is to demonstrate practical application development skills while adhering to industry standards.
 
 The repository is structured to showcase:
 - Interactive desktop applications.
